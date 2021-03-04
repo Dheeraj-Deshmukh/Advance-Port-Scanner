@@ -8,11 +8,11 @@ Threading make this tool faster.
 
 Given Switches :- 
 
-  -i   | --ip           : To scan single ip
-  -d   | --domain       : To scan single domain
-  -s ` | --segment      : To scan network segment 
-  -li  | --listip       : To scan List of the ip
-  -ld  | --domainlist   : To scan List of the domain
-  -h   | --help         : For help 
+  -i   | --ip           : To scan single ip.
+  -d   | --domain       : To scan single domain.
+  -s ` | --segment      : To scan network segment .
+  -li  | --listip       : To scan List of the ip.
+  -ld  | --domainlist   : To scan List of the domain.
+  -h   | --help         : For help .
   
   
