@@ -1,5 +1,5 @@
 # Advance-Port-Scanner
-Advance and Fast Port Scanner to scane big list of ip or domain and generate report of each ip or domain 
+>> Advance and Fast Port Scanner to scane big list of ip or domain and generate report of each ip or domain \n
 Scan ip list faster with connect scan and scan all 65536 ports.
 Scan domain list .
 Suitable for scan large numbers of ip or domain rather than 1 or 2.
