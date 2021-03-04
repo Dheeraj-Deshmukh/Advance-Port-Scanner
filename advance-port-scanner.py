@@ -6,9 +6,9 @@
 #
 #	File Name 	 	: nmap4.py
 #	Author	 	 	: Dheeraj Deshmukh
-#	last modified	: 15 jan 2021
+#	last modified		: 15 jan 2021
 #	Language		: Python
-#	python version  : python3.9
+#	python version 		: python3.9
 #	Requirment 		: re , nmap3 , threading , os , subprocess , time , sys , pyfiglet
 #	LinkedIn		:https://www.linkedin.com/in/dheeraj-deshmukh-65b7901a4/
 #	Twitter			:https://twitter.com/dheeraj_deshmuk
