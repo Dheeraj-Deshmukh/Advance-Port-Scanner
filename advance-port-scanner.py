@@ -370,7 +370,6 @@ if __name__ == '__main__':
 	print("                                       					      -Dheeraj Deshmukh ")
 
 	print("\033[0m ")
-	print("\033[1;30m>>> Faster than nmap.\n")
 	print("\033[1;30m>>> Scan multiple ip or domain symeltaneously.\n")
 	print("\033[1;30m>>> Suitable for scan big ip or domain list faster.\n")
 	print("\033[1;30m>>> Speed depends upon power of processor.\n")
